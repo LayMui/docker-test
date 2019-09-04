@@ -1,2 +1,2 @@
 # docker-test
-To get started with Docker
+a simple example to setup docker image
